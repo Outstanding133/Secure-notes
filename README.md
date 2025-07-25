@@ -14,7 +14,8 @@ A simple Python-based desktop app that allows users to **create, encrypt, decryp
 
 ## 📸 Screenshot
 
-![Secure Note Taker GUI](screenshot.png) <!-- Replace with actual screenshot if available -->
+![Secure Note Taker GUI](pic/pic1.png)
+![Secure Note Taker GUI](pic/pic2.png)<!-- Replace with actual screenshot if available -->
 
 ---
 
