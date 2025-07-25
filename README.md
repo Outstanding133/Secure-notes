@@ -53,4 +53,4 @@ Decryption reverses this by shifting in the opposite direction.
 ```bash
 git clone https://github.com/your-username/Secure-Notes
 cd Secure-Notes
-python secure_notes.py
+python new.py
