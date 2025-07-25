@@ -1,4 +1,4 @@
-# 🛡️ Secure Note Taker - Caesar Cipher GUI App
+# 🛡️ Secure Note  - Caesar Cipher GUI App
 
 A simple Python-based desktop app that allows users to **create, encrypt, decrypt, and save secure notes** using the classic Caesar Cipher encryption technique.
 
@@ -49,7 +49,8 @@ Decryption reverses this by shifting in the opposite direction.
 
 ### ▶️ Run the App
 
-1. Clone the repository  
+1. Clone the repository
 ```bash
-git clone https://github.com/your-username/secure-note-taker
-cd secure-note-taker
+git clone https://github.com/your-username/Secure-Notes
+cd Secure-Notes
+python secure_notes.py
