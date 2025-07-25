@@ -1,4 +1,4 @@
-# 🛡️ Secure Note  - Caesar Cipher GUI App
+# 🛡️ Secure Note  - Caesar Cipher GUI App(Section2 Task1)
 
 A simple Python-based desktop app that allows users to **create, encrypt, decrypt, and save secure notes** using the classic Caesar Cipher encryption technique.
 
